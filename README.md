@@ -249,4 +249,4 @@ This repository serves as the official landing page for The Red Queen. The softw
 **Get the most recent version of The Red Queen today!**
 
 ---
-**Last updated:** 2026-10-05 17:45:45 UTC
+**Last updated:** 2026-10-05 23:37:29 UTC
